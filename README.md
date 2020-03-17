@@ -43,7 +43,6 @@ exemplo requisão [/vendas/comprar] tipo: post
 	
 	
 }
-
 exemplo retorno [/vendas/comprar]
 
 {
@@ -53,13 +52,14 @@ exemplo retorno [/vendas/comprar]
     },
     "errors": []
 } 
+obs: a chave da tabela venda é criada randomicamente 
 
 ------------------------------------------------------------------------------------------
 temos outros end point 
-[/cartoes/apagar/{id}] -> exemplo 
-[/cartoes/buscar/{id}]
-[/vendas/apagar/{id}]
-[/vendas/buscar/{id}]
+[/cartoes/apagar/{id}] -> exemplo: [/cartoes/apagar/2331878038345974],   
+[/cartoes/buscar/{id}],
+[/vendas/apagar/{id}],
+[/vendas/buscar/{id}],
 
 Utilize o postman para realizar a requisições 
 
