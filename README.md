@@ -28,7 +28,8 @@ exemplo retorno [/cartoes/emitir]
 }
 obs: o campo senha está vindo descriptografado apenas na resposta para o usuário ver a senha criada randomicamente e poder realizar a compra, mas no banco está sendo persistida criptografada (MD5).
 
-O campo id(número do cartão) e cvv também são criados randomicamente
+o campo id(número do cartão) e cvv também são criados randomicamente
+
 ----------------------------------------------------------
 exemplo requisão [/vendas/comprar] tipo: post 
 
