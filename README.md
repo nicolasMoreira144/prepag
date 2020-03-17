@@ -65,8 +65,8 @@ Utilize o postman para realizar a requisições
 
 -------------------------------------------------------------------------------------------------------
 Principais Ferramentas utilizadas: 
-Banco mysql 
-Hibernate para implemnetação da JPA
-Spring Boot
-Junit para testes unitarios
+Banco mysql, 
+Hibernate para implemnetação da JPA,
+Spring Boot,
+Junit para testes unitarios,
 padrão MD5 para criptografia   
