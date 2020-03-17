@@ -53,6 +53,7 @@ exemplo retorno [/vendas/comprar]
     },
     "errors": []
 } 
+
 ------------------------------------------------------------------------------------------
 temos outros end point 
 [/cartoes/apagar/{id}] -> exemplo 
